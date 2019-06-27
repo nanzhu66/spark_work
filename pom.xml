@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xzkj</groupId>
-    <artifactId>saprk_web_test02</artifactId>
+    <artifactId>spark_work</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>saprk_web_test02</name>
+    <name>spark_work</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
